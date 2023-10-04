@@ -6,4 +6,5 @@
 # Or directories
 !*/
 !.gitignore
+!.devcontainer/*
 !README.md
